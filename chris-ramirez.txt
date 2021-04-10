@@ -1,5 +1,11 @@
 hello world!
 
+github link to proeject
+
+https://codepen.io/chrisjramirez/pen/eYgyYoP?editors=1100
+
+
+
 1. What is Semantic HTML? correct html that not only gives the appeareance for the website, but also helps SEO and helps articulate the meaning of content on a webpage
     2. What is HTML used for? html is used to build the basic structure of a website
     3. What is an attribute and where do we put it? a modifier of an html element that provides additional information, they are put in the start tag
